@@ -14,3 +14,14 @@ and customer risk classification to generate actionable business insights.
 - MySQL
 - SQL Joins & Aggregations
 - Business Intelligence Concepts
+
+## Business Impact
+
+This project helps retail businesses:
+
+- Identify high-value customers for targeted marketing
+- Track monthly revenue trends for forecasting
+- Analyze regional performance for expansion strategy
+- Detect inactive/high-risk customers for retention campaigns
+
+The insights generated from this analysis can directly support data-driven decision making.
