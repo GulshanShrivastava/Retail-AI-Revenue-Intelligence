@@ -1,6 +1,8 @@
 # Retail AI Revenue Intelligence
 
-End-to-end Retail Data Analytics project using SQL.
+An advanced Retail Revenue Intelligence project built using MySQL. 
+This project analyzes customer behavior, revenue trends, regional sales performance, 
+and customer risk classification to generate actionable business insights.
 
 ## Project Highlights
 - Customer Segmentation (High / Medium / Low Value)
