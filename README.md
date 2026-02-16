@@ -15,6 +15,17 @@ and customer risk classification to generate actionable business insights.
 - SQL Joins & Aggregations
 - Business Intelligence Concepts
 
+  ## Database Structure
+
+The project uses a relational retail database with the following tables:
+
+- customers (customer_id, name, city, join_date)
+- products (product_id, product_name, category, price)
+- orders (order_id, customer_id, order_date, region)
+- order_items (order_id, product_id, quantity)
+
+The tables are connected using primary and foreign key relationships.
+
 ## Business Impact
 
 This project helps retail businesses:
