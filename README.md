@@ -36,3 +36,8 @@ This project helps retail businesses:
 - Detect inactive/high-risk customers for retention campaigns
 
 The insights generated from this analysis can directly support data-driven decision making.
+
+## Entity Relationship Diagram
+
+![ER Diagram](assets/er_diagram.png)
+
