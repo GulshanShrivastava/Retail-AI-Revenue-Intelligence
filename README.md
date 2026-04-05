@@ -26,6 +26,33 @@ The project uses a relational retail database with the following tables:
 
 The tables are connected using primary and foreign key relationships.
 
+## SQL Query Example
+
+```sql
+SELECT o.region,
+       SUM(p.price * oi.quantity) AS total_revenue
+FROM orders o
+JOIN order_items oi ON o.order_id = oi.order_id
+JOIN products p ON oi.product_id = p.product_id
+GROUP BY o.region
+ORDER BY total_revenue DESC;
+
+```markdown
+## Key Insights
+
+## Future AI Enhancements
+
+- AI-based customer churn prediction
+- Sales demand forecasting using machine learning
+- Copilot chatbot for natural language sales Q&A
+- Smart product recommendation engine
+- AI-driven retention campaign suggestions
+
+- North region generated the highest revenue
+- High-value customers contributed 60%+ total sales
+- Electronics category showed best monthly growth
+- Customer inactivity risk increased in low-performing regions
+
 ## Business Impact
 
 This project helps retail businesses:
