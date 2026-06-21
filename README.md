@@ -1,4 +1,4 @@
-# Retail AI Revenue Intelligence
+# Retail-Revenue-Intelligence-SQL
 
 An advanced Retail Revenue Intelligence project built using MySQL. 
 This project analyzes customer behavior, revenue trends, regional sales performance, 
