@@ -56,9 +56,13 @@ ORDER BY total_revenue DESC;
 ## Project Outcomes
 
 ✔ Customer Segmentation
+
 ✔ Revenue Trend Analysis
+
 ✔ Regional Performance Insights
+
 ✔ Customer Risk Classification
+
 ✔ Business Intelligence Reporting
 
 ## 🚀 Results
